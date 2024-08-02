@@ -1,5 +1,5 @@
 +++
-title = 'About
+title = 'About'
 date = 2024-08-02T19:18:05+01:00
 draft = false
 menus = 'main'
