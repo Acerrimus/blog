@@ -30,7 +30,7 @@ but my main interests at the moment are:
 # This Site
 
 After watching The Social Network (2010) and seeing Zuccy post his blogs while programming I got inspired
- to make my own, and asked my friend Ash (If I haven't made that into a hyperlink yet please remind me to do so)
+ to make my own, and asked my friend [Ash](https://ash.fail) (If I haven't made that into a hyperlink yet please remind me to do so)
  for help and here we are.
 
 I'm going to use this site to share any ideas I have on any of my areas of interest, 
