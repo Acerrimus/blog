@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>The Sahil Blog</title>
-    <link>https://acerrimus.srht.site/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on The Sahil Blog</description>
     <generator>Hugo -- 0.123.7</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Aug 2024 13:45:36 +0100</lastBuildDate>
-    <atom:link href="https://acerrimus.srht.site/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>https://acerrimus.srht.site/posts/introduction/</link>
+      <link>http://localhost:1313/posts/introduction/</link>
       <pubDate>Fri, 02 Aug 2024 13:45:36 +0100</pubDate>
-      <guid>https://acerrimus.srht.site/posts/introduction/</guid>
+      <guid>http://localhost:1313/posts/introduction/</guid>
       <description>Hi, I&amp;rsquo;m Sahil! Welcome to my blog, I don&amp;rsquo;t really know what exactly it&amp;rsquo;s for at the time of writing, but it seemed like a good idea, so here we are.
 Now that I think about it, this page is kinda reundant cause all my info is on me about page so uhhh&amp;hellip; go check that out lol.</description>
     </item>
