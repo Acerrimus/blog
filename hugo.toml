@@ -2,3 +2,4 @@ baseURL = 'https://acerrimus.srht.site/'
 languageCode = 'en-us'
 title = "The Sahil Blog"
 theme = "PaperMod"
+sectionPagesMenu = 'main'
