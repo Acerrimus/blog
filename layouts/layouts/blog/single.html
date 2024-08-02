@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}">
+    {{ partial "head.html" . }}
+
+    <body>
+        {{ partial "navbar-and-title.html" . }}
+
+        <main><article>{{ .Content }}</article></main>
+
+        <p>
+            Have something to say? Feel free to leave your thoughts in my
+            <a href="https://lists.sr.ht/~ashie/inbox">
+                public inbox<sup>↗</sup></a
+            >
+            {{- with .Params.socials -}}
+                , comment on an associated social media post (
+                {{- range $v := first 1 . -}}
+                    <a href="{{ $v.link }}">{{ $v.name }}<sup>↗</sup></a>
+                {{- end }}
+                {{- range $v := after 1 . -}}
+                    , <a href="{{ $v.link }}">{{ $v.name }}<sup>↗</sup></a>
+                {{- end -}}
+                )
+            {{- end }}
+            or
+            <a href="/contact.html">contact</a>
+            me personally.
+        </p>
+
+        {{ partialCached "footer.html" . }}
+    </body>
+</html>

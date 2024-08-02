@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="{{ site.Language.LanguageCode }}">
+    <head>
+        <title>{{ .Title }}</title>
+        <link rel="canonical" href="{{ .Permalink }}" />
+        {{ with .Description }}
+            <meta name="description" content="{{ . }}" />
+        {{ end }}
+        <meta name="robots" content="noindex" />
+        <meta charset="utf-8" />
+        <meta http-equiv="refresh" content="0; url={{ .Permalink }}" />
+    </head>
+</html>

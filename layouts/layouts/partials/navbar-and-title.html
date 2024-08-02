@@ -1,0 +1,18 @@
+<nav><a href="/"><- back to index</a></nav>
+<h1>
+    {{ .Title }}
+    {{- with .Params.Date }}
+        <span class="date">{{ .Format "January 2, 2006" }}</span>
+    {{- end }}
+    {{- if eq .Type "blog" }}
+        {{- $git := (index .Page.Site.Author "git") }}
+        <span id="article-source">
+            <a
+                href="https://{{ $git }}/blog/tree/master/item/content/{{ .File.Path }}?view-source"
+                >source</a
+            >/<a href="https://{{ $git }}/blog/commit/{{ .GitInfo.Hash }}"
+                >commit</a
+            >
+        </span>
+    {{- end }}
+</h1>

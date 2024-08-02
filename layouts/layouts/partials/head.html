@@ -1,0 +1,55 @@
+<head>
+    <title>{{ .Title }}</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noai, noimageai" />
+
+    {{ with .Description }}
+        <meta name="description" content="{{ . }}" />
+    {{ end }}
+
+    <link rel="shortcut icon" href="/favicon-96x96.png" type="image/png" />
+    <link rel="icon" href="/favicon-96x96.png" type="image/png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="apple-mobile-web-app-title" content="Ash's Blog" />
+    <meta name="application-name" content="Ash's Blog" />
+    <meta name="msapplication-TileColor" content="#603cba" />
+
+    <link
+        rel="alternate"
+        type="application/rss+xml"
+        title="{{ .Site.Title }}"
+        href="/index.xml"
+    />
+    {{ $options := dict "transpiler" "dartsass" }}
+    <link
+        rel="stylesheet" 
+        href="{{ (resources.Get "main.scss" | toCSS $options).RelPermalink }}"
+    />
+    {{ with resources.Get (printf "%s.scss" .Type) }}
+        <link 
+            rel="stylesheet"
+            href="{{ (. | toCSS $options).RelPermalink }}"
+        />
+    {{ end }}
+    {{ if eq .Params.syntax true }}
+        <link
+            rel="stylesheet"
+            href="{{ (
+                resources.Get "syntax.scss" | toCSS $options
+            ).RelPermalink }}"
+        />
+    {{ end }}
+    <script
+        defer
+        src="https://0.u.ash.fail/script.js"
+        data-website-id="d73c95f0-a307-4a43-93e2-1dd12b7df41d"
+    ></script>
+    {{ range .Params.scripts }}
+        <script
+            defer
+            src="{{ (resources.Get .).RelPermalink }}"
+        ></script>
+    {{ end }}
+</head>

@@ -1,0 +1,5 @@
+{{ $email := or .Inner (.Get 0) -}}
+<span class="spamspan" base64="{{ $email | base64Encode }}">
+    {{ replace (replace $email "@" "<at>") "." "<dot>" -}}
+</span>
+{{- "" -}}
