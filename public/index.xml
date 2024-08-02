@@ -9,6 +9,15 @@
     <lastBuildDate>Fri, 02 Aug 2024 19:18:05 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Fri, 02 Aug 2024 19:18:05 +0100</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Me I&amp;rsquo;m Sahil, at the time of writing I am 17 years old and live in England.
+Passions My biggest passion is simply being at the vanguard of human development in some shape or form. My dream is to run companies with trillion dollar valuation that genuinely change the world for the better.
+There are a lot of things I enjoy doing and would love to imagine I&amp;rsquo;m good at, but my main interests at the moment are:</description>
+    </item>
+    <item>
       <title>How This Site Will Work</title>
       <link>http://localhost:1313/how-this-site-will-work/</link>
       <pubDate>Fri, 02 Aug 2024 19:18:05 +0100</pubDate>

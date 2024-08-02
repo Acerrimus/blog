@@ -37,5 +37,3 @@ I'm going to use this site to share any ideas I have on any of my areas of inter
 in the hopes of entertaining or maybe even helping someone such as yourself.
 Anything I say is just my opinion and be treated as such (yes, despite the fact that my opinions are objectively correct all of the time)
 
-
-{{< avatar >}}
