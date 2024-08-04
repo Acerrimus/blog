@@ -5,7 +5,7 @@ draft = false
 menus = 'main'
 +++
 
-# Me
+## Me
 
 I'm Sahil, at the time of writing I am 17 years old and live in England.
 
@@ -27,10 +27,10 @@ but my main interests at the moment are:
 - Reading
 
 
-# This Site
+## This Site
 
 After watching The Social Network (2010) and seeing Zuccy post his blogs while programming I got inspired
- to make my own, and asked my friend [Ash](https://ash.fail) (If I haven't made that into a hyperlink yet please remind me to do so)
+ to make my own, and asked my friend [Ash](https://ash.fail)
  for help and here we are.
 
 I'm going to use this site to share any ideas I have on any of my areas of interest, 
