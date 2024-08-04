@@ -1,6 +1,6 @@
 +++
 title = 'Etc'
-description = 'Third Party stuff I found worth sharing"
+description = 'Third Party stuff I found worth sharing'
 menus = 'main'
 +++
 

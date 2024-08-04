@@ -27,18 +27,38 @@ The goal is for this Blog to be USEFUL to anyone who comes accross it, and I wil
     </item>
     <item>
       <title>No BS Guide to what really works</title>
-      <link>https://acerrimus.srht.site/posts/live-with-purpose/</link>
+      <link>https://acerrimus.srht.site/blog/what-really-works/live-with-purpose/</link>
       <pubDate>Fri, 02 Aug 2024 18:39:22 +0100</pubDate>
-      <guid>https://acerrimus.srht.site/posts/live-with-purpose/</guid>
-      <description>Things that have had a genuinely positive effect on my life: Eating Frogs Having a clear purpose for the day Catching Rationalisations and accepting radical lifestyle changes Jounraling Step by Step where I&amp;rsquo;m stuck Dharma Accepting Boredom Accepting and embracing discomfort/ resistence </description>
+      <guid>https://acerrimus.srht.site/blog/what-really-works/live-with-purpose/</guid>
+      <description>Things that have had a genuinely positive effect on my life: Eating Frogs lorem ipsum
+Having a clear purpose for the day lorem ipsum
+Catching Rationalisations and accepting radical lifestyle changes lorem ipsum
+Jounraling Step by Step where I&amp;rsquo;m stuck lorem ipsum
+Dharma lorem ipsum
+Accepting Boredom lorem ipsum
+Accepting and embracing discomfort/ resistence lorem ipsum</description>
     </item>
     <item>
       <title>Introduction</title>
-      <link>https://acerrimus.srht.site/posts/introduction/</link>
+      <link>https://acerrimus.srht.site/blog/personal-posts/introduction/</link>
       <pubDate>Fri, 02 Aug 2024 13:45:36 +0100</pubDate>
-      <guid>https://acerrimus.srht.site/posts/introduction/</guid>
+      <guid>https://acerrimus.srht.site/blog/personal-posts/introduction/</guid>
       <description>Hi, I&amp;rsquo;m Sahil! Welcome to my blog, I don&amp;rsquo;t really know what exactly it&amp;rsquo;s for at the time of writing, but it seemed like a good idea, so here we are.
 Now that I think about it, this page is kinda reundant cause all my info is on me about page so uhhh&amp;hellip; go check that out lol.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://acerrimus.srht.site/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acerrimus.srht.site/contact/</guid>
+      <description>Reach out to me!</description>
+    </item>
+    <item>
+      <title>Etc</title>
+      <link>https://acerrimus.srht.site/etc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acerrimus.srht.site/etc/</guid>
+      <description>Third Party stuff I found worth sharing</description>
     </item>
   </channel>
 </rss>
