@@ -2,6 +2,7 @@
 title = 'Contact'
 description = 'Reach out to me!'
 scripts: ["spamspan.js"]
+menus = 'main'
 
 +++
 

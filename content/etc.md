@@ -1,6 +1,7 @@
 +++
 title = 'Etc'
-draft = true
+description = 'Third Party stuff I found worth sharing"
+menus = 'main'
 +++
 
 This page contains assortment of various links, that I find interesting or otherwise deem worth sharing. The sorting order of anything here is completely arbitrary.
