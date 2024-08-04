@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://acerrimus.srht.site/about/</loc>
     <lastmod>2024-08-02T19:18:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/how-this-site-will-work/</loc>
+    <loc>https://acerrimus.srht.site/how-this-site-will-work/</loc>
     <lastmod>2024-08-02T19:18:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://acerrimus.srht.site/</loc>
     <lastmod>2024-08-02T19:18:05+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/live-with-purpose/</loc>
+    <loc>https://acerrimus.srht.site/posts/live-with-purpose/</loc>
     <lastmod>2024-08-02T18:39:22+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://acerrimus.srht.site/posts/</loc>
     <lastmod>2024-08-02T18:39:22+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/introduction/</loc>
+    <loc>https://acerrimus.srht.site/posts/introduction/</loc>
     <lastmod>2024-08-02T13:45:36+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://acerrimus.srht.site/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://acerrimus.srht.site/tags/</loc>
   </url>
 </urlset>

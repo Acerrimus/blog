@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on The Sahil Blog</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://acerrimus.srht.site/posts/</link>
     <description>Recent content in Posts on The Sahil Blog</description>
     <generator>Hugo -- 0.123.7</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 02 Aug 2024 18:39:22 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://acerrimus.srht.site/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No BS Guide to what really works</title>
-      <link>http://localhost:1313/posts/live-with-purpose/</link>
+      <link>https://acerrimus.srht.site/posts/live-with-purpose/</link>
       <pubDate>Fri, 02 Aug 2024 18:39:22 +0100</pubDate>
-      <guid>http://localhost:1313/posts/live-with-purpose/</guid>
+      <guid>https://acerrimus.srht.site/posts/live-with-purpose/</guid>
       <description>Things that have had a genuinely positive effect on my life: Eating Frogs Having a clear purpose for the day Catching Rationalisations and accepting radical lifestyle changes Jounraling Step by Step where I&amp;rsquo;m stuck Dharma Accepting Boredom Accepting and embracing discomfort/ resistence </description>
     </item>
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/posts/introduction/</link>
+      <link>https://acerrimus.srht.site/posts/introduction/</link>
       <pubDate>Fri, 02 Aug 2024 13:45:36 +0100</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
+      <guid>https://acerrimus.srht.site/posts/introduction/</guid>
       <description>Hi, I&amp;rsquo;m Sahil! Welcome to my blog, I don&amp;rsquo;t really know what exactly it&amp;rsquo;s for at the time of writing, but it seemed like a good idea, so here we are.
 Now that I think about it, this page is kinda reundant cause all my info is on me about page so uhhh&amp;hellip; go check that out lol.</description>
     </item>
