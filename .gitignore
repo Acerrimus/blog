@@ -1,1 +1,4 @@
+*.lock
 public
+resources
+site.tar.gz
