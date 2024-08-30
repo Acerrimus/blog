@@ -17,7 +17,7 @@ for the better.
 There are a lot of things I enjoy doing and would love to imagine I'm good at, 
 but my main interests at the moment are:
 
-- Philosophy
+- Philosophy (I'd say I'm an ambitious absurdist)
 - Entrepreneurship
 - Programming and CS in general
 - Science and math (Mainly Physics pushed to its extremely)
