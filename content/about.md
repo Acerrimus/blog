@@ -46,4 +46,3 @@ The goal is for this Blog to be USEFUL to anyone who comes accross it, and I wil
 If someone like my younger self reads this and it helps them, I'm happy.
 
 (This will also serve as a window into getting to know me better as a person too)
-    ¬
