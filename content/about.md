@@ -40,7 +40,10 @@ Anything I say is just my opinion and be treated as such (yes, despite the fact 
 
 ### How this site will work
 
-I'm going to split my site into sections, cause I intent to share insights on both internal and external philosophy (external philosophy could be argued ot be politics or societal commentary) as well as anything that has helped me with general productivity/wellbeing, and random blog stuff.
+I'm just gonna do whatever hte fuck I feel like doing and see how it turns out as time goes on :)
 
 The goal is for this Blog to be USEFUL to anyone who comes accross it, and I will try my best to make it so.
 If someone like my younger self reads this and it helps them, I'm happy.
+
+(This will also serve as a window into getting to know me better as a person too)
+    ¬
