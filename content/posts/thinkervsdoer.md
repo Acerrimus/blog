@@ -1,7 +1,7 @@
 +++
 title = 'How to never drop a hobby after 2 weeks again (How to Go from Thinker to Doer)'
 date = 2024-08-14T13:06:46+01:00
-draft = true
+draft = false
 +++
 
 
