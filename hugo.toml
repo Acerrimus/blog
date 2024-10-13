@@ -1,0 +1,9 @@
+baseURL = 'https://acerrimus.srht.site/'
+languageCode = 'en-us'
+title = "Welcome to Sahil's Personal Site :)"
+theme = 'hello-friend-ng'
+
+  [[menu.main]]
+    identifier = "blog"
+    name       = "Blog / Posts"
+    url        = "/posts"
