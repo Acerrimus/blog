@@ -2,6 +2,8 @@
 title = 'Coaches, not Clients: A guide to reading effectively.'
 date = 2024-08-13T13:22:11+01:00
 draft = false
+type = "post"
+
 +++
 
 ### Context

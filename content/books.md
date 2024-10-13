@@ -1,7 +1,8 @@
 +++
 title = 'Books'
+descripton = 'My book recommendations!'
 date = 2024-08-13T13:35:54+01:00
-draft = false
+menus= 'main'
 +++
 
 I've read quite a few, but these are some of my favourites I read again and again.
@@ -30,4 +31,4 @@ Rating: 8/10
 Rating: 9/10
 
 
-(I'll add more in depth pages for each of these later, busy working on other projects atm thoug)
+(I'll add more in depth pages for each of these later, busy working on other projects atm though)

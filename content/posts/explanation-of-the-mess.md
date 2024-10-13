@@ -1,6 +1,7 @@
 +++
 title = 'Explanation of the Mess'
 date = 2024-08-04T16:56:58+01:00
+type = 'post'
 +++
 
 ## Wtf is going on Sahil?

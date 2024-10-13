@@ -6,8 +6,8 @@ menus = 'main'
 
 +++
 
-** If you found my ideas interesting, and would like to chat, feel free to contact me through any of the following: **
+If you found my ideas interesting, and would like to chat, feel free to contact me through any of the following: 
 
-<!-- trunk-ignore(markdownlint/MD034) -->
 - Personal email: sahilsingh.contact@gmail.com
 - Discord: Acerrimus
+- Instagram (Deactivated 90% of the time): [ig_sxhil (Main account)](https://www.instagram.com/ig_sxhil) or [My alt](https://www.instagram.com/sahil_secondaccount/)
