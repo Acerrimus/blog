@@ -1,7 +1,7 @@
 ﻿+++
 title = 'What works for me.'
 date = 2024-08-02T18:39:22+01:00
-draft = false
+draft = true
 menus = 'productivity'
 +++
 
