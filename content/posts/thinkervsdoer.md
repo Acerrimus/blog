@@ -8,7 +8,7 @@ draft = false
 
 Something I've always struggled with is sticking to my interests, there are so many random niche things I've been exposed to, gotten interested about for a week or 2, but then ended up dropping it cause I either just forget about it or lose interest, or simply never seem to 'adopt' it as a part of my life. This applies not only to hobbies, but ideas and philosophies and frameworks too. How many times have we been exposed to an excellent idea that would improve our lives immensely if integrated, only to drop it before it even gets a chance to flourish and yield benefits?
 
-It ends up making us wonder: why do we end up like this? All while while other people seem to be able to just get exposed to something and actually stick with it. Instead of just sitting there thinking about it to only get good at all the ideology of it, they actually USE it, and it actually BENEFITS them, they actually DO stuff. WHY??
+It ends up making us wonder: why do we end up like this? All while other people seem to be able to just get exposed to something and actually stick with it. Instead of just sitting there thinking about it, merely familiarising themselves with the ideology behing it, they actually USE it, and it actually BENEFITS them, they actually DO stuff. WHY??
 
 I'm sure we can both imagine the 2 different types of people and how we lie somewhere along that spectrum, kinda wishing we could be more of the later.
 
@@ -18,7 +18,7 @@ The good news is that well... you can do just that! You can become more of a 'Do
 
 ### 1. Triggered Situational Interest
 
-Phase one is out of your control. It is simply when something in your environment triggers your curiosity.
+Phase one is out of your control. It is simply the event where something in your environment triggers your curiosity, and so you dive a bit deeper...
 
 Sometimes in this stage when we get curious about something we get hit with some sort of negative emotion, usually in the form of embarrassment or feeling bad about ourselves cause we’re not good at the newly acquired interest, and a lot of us just run away from it immediately, but the thing is... **the most important step** in phase 1 is **continued exposure to the interest.**
 
