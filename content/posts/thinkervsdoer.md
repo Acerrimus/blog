@@ -30,21 +30,21 @@ In order for feedback to be useful, you need to actually have CONFIDENCE in the 
 
 We don’t have to worry about dealing with the negative emotion, we just have to expose ourselves to the interest in any way. This can be talking to people about it, watching YouTube video on it, reading about it, etc.
 
-Sure, you’re not necessarily getting better at it, but you’re still exposing yourself to keep MAINTAINED Situational Interest
+Sure, you’re not necessarily getting better at it, but you’re still exposing yourself to keep **MAINTAINED Situational Interest**
 
 You still want to expose yourself somewhat. BUT DON’T SWEAT IT!!
 
 After this we go from external interest to internal
 
-If you try to go too much in depth at this stage, before you have your own ‘meta’ or knowledge map formed out, you may actually find it boring or disengaging, since you kinda won’t have much to attach onto, and there will be no pleasure like that which you experience in stage 3 and 4 where your ideas dynamically interact.
+At this stage you are beginning to form your own mental map of the topic, getting a grasp of the 'meta' and forming connections between ideas. If you try to go too much in depth at this stage, before you have your own ‘meta’ or knowledge map formed out, you may actually find it boring or disengaging, since you kinda won’t have much to attach onto, and there will be no pleasure like that which you experience in stage 3 and 4 where your ideas dynamically interact.
 
-Dynamically engaging with ideas is FAR more engaging than statically absorbing them, and I believe this is what helped me learn so much faster than my peers in school. (Instead of just statically absorbing information and formulas coming through, I actually worked through the proofs myself)
+Dynamically engaging with ideas is FAR more engaging than statically absorbing them, and I believe this is what helped me learn so much faster than my peers early in school. (Instead of just statically absorbing information and formulas coming through, I dynamically worked through the proofs myself)
 
 ### 3. Emerging Individual Interest (THEORY CRAFTING)
 
 Now after consuming all this content and exposure, the crucial step is to **process it internally.**
 
-That is not watching more videos on it, that’s not asking for advice on it, that is the type of processing that you do when you’re laying in bed at night, going through different scenarios, trying to figure things out for **YOURSELF**
+That is not watching more videos on it, that’s not asking for advice on it, that is the type of processing that you do when you’re laying in bed at night, going through different scenarios, trying to figure things out for **YOURSELF**, how the topics relate __specifically to you and your situation__
 
 To develop Intrinsic motivation, you need to **reflect** on what you just learnt.
 
@@ -59,11 +59,11 @@ This phase is characterised by 2 steps:
 
 Step 1: Appreciate the contributions of others:
 
-- Once you’ve done your own theory crafting, you can APPRECIATE other people’s theory crafting.
+- Once you’ve done your own theory crafting, and have your own map to play with and add onto, you will be able to APPRECIATE other people’s theory crafting.
 
-Asking for feedback?
+Step 2: Asking for feedback:
 
-In phase 1 feedback can be BAD for you
+In phase 1 feedback can be BAD for you, as it can discourage you, but as you develop more confidence and a stable knowledge base, you develop the ability to take negative feedback and actually digest it to improve rather than just seeing it as an attack on your ability.
 
 ## Notes:
 
