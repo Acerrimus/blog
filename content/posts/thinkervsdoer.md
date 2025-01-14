@@ -6,7 +6,7 @@ draft = false
 
 ## ‘Doing’ is a trait you can level up.
 
-Something I've always struggled with is sticking to my interests, there are so many random niche things I've been exposed to, gotten interested about for a week or 2, but then ended up dropping it cause I either just forget about it or lose interest, or simply never seem to 'adopt' it as a part of my life. This applies not only to hobbies, but ideas and philosophies and frameworks too. How many times have we been exposed to an excellent idea that would improve our lives immensely if integrated, only to drop them before they even get a chance to flourish and yield benefits?
+Something I've always struggled with is sticking to my interests, there are so many random niche things I've been exposed to, gotten interested about for a week or 2, but then ended up dropping it cause I either just forget about it or lose interest, or simply never seem to 'adopt' it as a part of my life. This applies not only to hobbies, but ideas and philosophies and frameworks too. How many times have we been exposed to an excellent idea that would improve our lives immensely if integrated, only to drop it before it even gets a chance to flourish and yield benefits?
 
 It ends up making us wonder: why do we end up like this? All while while other people seem to be able to just get exposed to something and actually stick with it. Instead of just sitting there thinking about it to only get good at all the ideology of it, they actually USE it, and it actually BENEFITS them, they actually DO stuff. WHY??
 
