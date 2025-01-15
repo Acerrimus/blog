@@ -7,12 +7,12 @@ menus = 'main'
 
 ## Me
 
-I'm Sahil, at the time of writing I am 17 years old and live in England.
+I'm Sahil, at the time of writing I am ~~17~~ 18 years old and live in England.
 
 ### Passions
 My biggest passion is simply being at the vanguard of human development in some shape or form.
 My dream is to run companies with trillion dollar valuation that genuinely change the world 
-for the better.
+for the better, while working towards the goal of bringing my space travel dreams to life.
 
 There are a lot of things I enjoy doing and would love to imagine I'm good at, 
 but my main interests at the moment are:
