@@ -11,4 +11,4 @@ I'm trying to sub categorise my blogs into guides - personal posts - and other f
 That being said, please excuse any grammatical, logical, structural, philosophical, or wahtveer the fuck else kinda mistakes, I'm still learning and trying to show the process :)
 
 
-Future Sahil: Rest assured, I have lots of good posts ready, they're just all in the draft stage. I'll release a couple really mid ones first though.
+Message from Future Sahil: Rest assured, I have lots of good posts ready, they're just all in the draft stage. I'll release a couple really mid ones first though.
