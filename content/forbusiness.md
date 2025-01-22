@@ -6,11 +6,11 @@ menus = 'main'
 +++
 
 
-**About Me**
+## About Me
 
 Hi, I'm Sahil. I'm an 18-year-old Engineering Student and future Tech Founder from England, with a goal of designing and implementing technology that drives human progress to unpresidented achievements. I'm currently completing my Engineering BTEC (predicted D*DD), but most of my learning happens outside the classroom, independently.
 
-**Technical Skills**
+## Technical Skills
 - Python (CS50p certified)
 - HTML/CSS 
 - SQL/Databases
@@ -19,7 +19,7 @@ Hi, I'm Sahil. I'm an 18-year-old Engineering Student and future Tech Founder fr
 - CAD design
 - Currently learning: JavaScript & Node.js
 
-**Professional Experience**
+## Professional Experience
 
 **AI Model Training for Outlier| Contract Work**
 - Training and optimizing AI models
@@ -37,19 +37,19 @@ Hi, I'm Sahil. I'm an 18-year-old Engineering Student and future Tech Founder fr
 - Undertook Low to High ticket sales and negotiations.
 - Operated machinery and maintaned a clean environment.
 
-**Key Strengths**
+## Key Strengths
 - Self-taught programmer with very strong problem-solving abilities
 - Quick learner who thrives in fast-paced and competitive environments
 - Experience working both independently and in teams
 - Extensive experience in postitions of resposibility and leadership
 - Data and Intuition driven approach to decision making
 
-**Education**
+## Education
 - Engineering BTEC Level 3 Extended Diploma (Predicted: D*DD)
 - GCSEs: Predominantly 8s and 9s (particularly in STEM)
 - Continuous self-education through online courses and practical projects
 
-**Looking For**
+## Looking For
 Opportunities in software development, Engineering, AI, or tech startups where I can contribute to meaningful projects and collaborate with ambitious and like-minded founders, while continuing to grow my technical and business skills.
 
 [Contact](/contact) | [LinkedIn](https://www.linkedin.com/in/sahil-singh-91905025a/) | [GitHub](https://github.com/Acerrimus)
