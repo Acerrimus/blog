@@ -1,5 +1,5 @@
 +++
-title = 'Studentcasestudy'
+title = "'Case Study' on how I use AI as an Engineering Student"
 date = 2025-01-22T00:12:16Z
 draft = false
 +++
