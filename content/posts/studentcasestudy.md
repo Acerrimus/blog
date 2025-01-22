@@ -4,7 +4,7 @@ date = 2025-01-22T00:12:16Z
 draft = false
 +++
 
-# Student Case Study on Leveraging AI effectively for education.
+### Student Case Study on Leveraging AI effectively for education.
 
 
 As an Engineering student on a Level 3 BTEC, a significant portion of my studies involves processing, understanding, and writing text containing engineering insights and data. 
