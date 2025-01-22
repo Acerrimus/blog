@@ -1,5 +1,5 @@
 +++
-title = 'Forbusiness'
+title = 'For Business'
 date = 2025-01-22T00:09:42Z
 draft = false
 +++
@@ -37,7 +37,7 @@ Hi, I'm Sahil. I'm an 18-year-old Engineering Student and future Tech Founder fr
 - Operated machinery and maintaned a clean environment.
 
 **Key Strengths**
-- Self-taught programmer with strong problem-solving abilities
+- Self-taught programmer with very strong problem-solving abilities
 - Quick learner who thrives in fast-paced and competitive environments
 - Experience working both independently and in teams
 - Extensive experience in postitions of resposibility and leadership
