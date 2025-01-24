@@ -40,9 +40,9 @@ Anything I say is just my opinion and be treated as such (yes, despite the fact 
 
 ### How this site will work
 
-I'm going to split my site into sections, cause I intent to share insights on both internal and external philosophy (external philosophy could be argued ot be politics or societal commentary) as well as anything that has helped me with general productivity/wellbeing, and random blog stuff.
+This blog has 2 purposes:
 
-If that isn't the case yet, it's cause I'm working on something else, and this doesn't have much ROI 😔...
+1. To act as some sort of reflection of myself, or atleast to showcase some of my thoughts and projects while remaining as authentic as possible.
 
-The goal is for this Blog to be USEFUL to anyone who comes accross it, and I will try my best to make it so.
+2. to be USEFUL to anyone who comes accross it, and I will try my best to make it so.
 If someone like my younger self reads this and it helps them, I'm happy.
