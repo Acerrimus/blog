@@ -26,6 +26,12 @@ Rating: 8.5/10
 ### The Way of the Superior Man - David Deida
 Rating: 8/10
 
+I find myself coming back to this book over and over again (Like most of the other books in this list), even after having periods of dismissing spiritua;ity and the idea of 'Masulinity' as red pilled pseudo science. I cannot speak for the objective validity of the claims made in this book, but what I can say is that they are a very good reflection of someting very real and very important.
+
+The most important idea I got from this book is the idea of your individual Edge, and the importance of understanding, honouring, and living by it. The idea is that almost everyone falls short of their true capacity for living life to the fullest because they let their fears hold them back; fear of failure, fear of success, fear of ridicule, and so on. Deida calls the reader out and thorugh his writing helps bring an idea of the readers truer edge to the surface. He invites you to take a moment to appreciate what you would be capable of if you didn't let these fears stop you, if you were truly fearless. 
+
+Overall the book dives very deep into spirituality, and seems to stem from a deep realisation of Infinity / Oneness. It does a very commendable job at combining ideas of Masculinity with more traditional spirituality.
+
 ### Zero to One:
 
 Rating: 9/10
