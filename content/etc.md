@@ -47,3 +47,4 @@ Mf is one of the coolest engineers I've ever seen. Can't wait for his collab wit
 
 # Resources
 
+Do NOT underestimate the power of 50+!0 pomodoros combined with good movies OSTs like the one from The Social Network

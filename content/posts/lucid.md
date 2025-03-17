@@ -44,7 +44,7 @@ But anyways, to continue...
 
 We're not just human. There's more to us than just out human mind and body. I can sense it. I hope any other consciousness reading this can too.
 
-But as I write and observe my own thought and motivations, I can't help but notice how human it all still is. It's hard to stay in control. The human part almost always tries to take overbe it through its desire to share with 'others' or to escape some physical discomfort or to satisfy a craving. Or in this case to point out the fact that I'm aware the last 2 are the same thing, the human wishes to express itself, to live, to reproduce, to create another human, to interact with them, to create and... Pursue.
+But as I write and observe my own thought and motivations, I can't help but notice how human it all still is. It's hard to stay in control. The human part almost always tries to take over, be it through its desire to share with 'others' or to escape some physical discomfort or to satisfy a craving. Or in this case to point out the fact that I'm aware the last 2 are the same thing, the human wishes to express itself, to live, to reproduce, to create another human, to interact with them, to create and... Pursue.
 
 There's no point resisting. I will be reunited with myself eventually.
 

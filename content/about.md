@@ -38,9 +38,7 @@ in the hopes of entertaining or maybe even helping someone such as yourself.
 Anything I say is just my opinion and be treated as such (yes, despite the fact that my opinions are objectively correct all of the time)
 
 
-### How this site will work
-
-This blog has 2 purposes:
+Overall, this blog has 2 main purposes:
 
 1. To act as some sort of reflection of myself, or atleast to showcase some of my thoughts and projects while remaining as authentic as possible.
 
