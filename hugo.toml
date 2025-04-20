@@ -1,7 +1,7 @@
 baseURL = 'https://acerrimus.srht.site/'
-languageCode = 'en-us'
+languageCode = 'en-gb'
 title = "Welcome to Sahil's Personal Site :)"
-theme = 'hello-friend-ng'
+theme = 'hugo-theme-hello-friend-ng'
 
   [[menu.main]]
     identifier = "blog"
